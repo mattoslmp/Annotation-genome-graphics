@@ -1,4 +1,5 @@
-
+### Script for plot results of Omicsbox
+## Autor: Cite: Leandro de Mattos Pereira
 library(plotly)
 library(readr)
 library(readr)
