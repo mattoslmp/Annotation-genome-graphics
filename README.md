@@ -1,7 +1,7 @@
 # Annotation-genome-graphics
 
 ## Installation
-Install the necessary libraries by running the following command:
+Install the necessary libraries by running the following command in R:
 
 #
 install.packages(c("plotly", "readr", "ggplot2", "grid", "gridExtra"))
