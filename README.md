@@ -1,16 +1,25 @@
 # Annotation-genome-graphics
 
+# Project Name
+
+## Description
+
+[Provide a brief description of the purpose and functionality of your project.]
+
+## Prerequisites
+
+- [List any prerequisites or dependencies required to run your project.]
+
 ## Installation
-Install the necessary libraries by running the following command in R:
 
-#
-install.packages(c("plotly", "readr", "ggplot2", "grid", "gridExtra"))
+```RR
+1. install.packages(c("plotly", "readr", "ggplot2", "grid", "gridExtra"))
 
-# Make sure to provide the correct paths to the PFAM, SMART, and SUPERFAMILY data files in the code. Update the file paths in the following code sections:
 
-PFAM <- read_delim("path_to_PFAM_file", "\t", escape_double = FALSE, trim_ws = TRUE)
-SMART <- read_delim("path_to_SMART_file", "\t", escape_double = FALSE, trim_ws = TRUE)
-SUPERFAMILY <- read_delim("path_to_SUPERFAMILY_file", "\t", escape_double = FALSE, trim_ws = TRUE)
+Copy the script code to your R environment or R file.
+
+Make sure to provide the correct paths to the PFAM, SMART, and SUPERFAMILY data files in the code. Update the file paths in the following code sections:
+
 
 
 ## Usage
