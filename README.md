@@ -1,7 +1,5 @@
 # Annotation-genome-graphics
 
-# Project Name
-
 ## Description
 
 [Provide a brief description of the purpose and functionality of your project.]
