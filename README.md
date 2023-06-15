@@ -30,4 +30,4 @@ SUPERFAMILY <- read_delim("path_to_SUPERFAMILY_file", "\t", escape_double = FALS
 
 5. The charts will also be saved as an image file named "Fig4.png" (Example) in the current directory.
 
-# Contributions to this project are welcome. You can contribute by suggesting improvements or bug fixes through pull requests or by opening an issue in the project repository.
+##  Contributions to this project are welcome. You can contribute by suggesting improvements or bug fixes through pull requests or by opening an issue in the project repository.
