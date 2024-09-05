@@ -30,4 +30,8 @@ SUPERFAMILY <- read_delim("path_to_SUPERFAMILY_file", "\t", escape_double = FALS
 
 5. The charts will also be saved as an image file named "Fig4.png" (Example) in the current directory.
 
+## Script built for the graphics of article:
+
+In depth transcriptome unravels the biotechnological potential of the Bothrops jararaca venom gland. Leandro de Mattos Pereira.; Miss Elisa Alves Messias.; Miss Bruna Sorroche.; Miss Angela das Neves Oliveira.; Lidia Maria Rebolho Batista Arantes.; Ana Carolina de Carvalho.; Anita Mitico Tanaka-Azevedo.; Kathleen Grego.; André Carvalho.; Matias Melendez. September, 17, 2020. J. Venom. Anim. Toxins incl. Trop. Dis, vol.26 Botucatu 2020 Epub Oct 21, 2020. Link to the Paper
+
 ##  Contributions to this project are welcome. You can contribute by suggesting improvements or bug fixes through pull requests or by opening an issue in the project repository.
